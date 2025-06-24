@@ -1,0 +1,10 @@
+langchain
+openai
+pypdf
+tiktokens
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF-2
