@@ -22,7 +22,7 @@ import csv
 from PyPDF2 import PdfReader
 
 # ✅ Set your Gemini API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCRWiYGu3Z59IXHZ_Rou1f6cMAvdLEjgf8"
+os.environ["GOOGLE_API_KEY"] = "YOUR API KEY"
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
